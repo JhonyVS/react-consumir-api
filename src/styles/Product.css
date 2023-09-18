@@ -1,0 +1,17 @@
+* {
+    justify-content: center;
+    align-items: center;
+
+}
+
+p {
+    margin: 10px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(100, 0, 0);
+    font-size: 22px;
+}
+h2 {
+    margin: 0;
+    padding: 10px;
+}
